@@ -13,14 +13,14 @@ I'm an Embedded Systems enthusiast with a strong background in electronics and t
 I'm a communication and electronics student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; *Education* : Third-year Electrical Engineering student, Department of Electrical Engineering, Al-Azhar University.
-- 🚗 &nbsp;  *Focus: Embedded software engineering with a concentration in the **automotive field*.
+- 🚗 &nbsp;  *Focus*: Embedded software engineering with a concentration in the *automotive field*.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware and AUTOSAR.
 
 ---
 
 ## 🛠 Skills & Tools
-- *Programming: Proficient in **C programming* , with experience in delivering lectures and workshops.
-- *Microcontrollers: Specialization with **ATmega32*, including hands-on projects with keypads, LCDs, and seven-segment displays.
+- *Programming*: Proficient in *C programming* , with experience in delivering lectures and workshops.
+- *Microcontrollers*: Specialization with *ATmega32*, including hands-on projects with keypads, LCDs, and seven-segment displays.
 - *Software Development*: Project work with real-world embedded applications and control systems.
 - *Languages*: Advanced in English and Arabic.
 
