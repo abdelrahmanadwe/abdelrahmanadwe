@@ -2,7 +2,9 @@
 
 # 👋 Hi there, I'm Abdelrahman!
 
-I'm an Embedded Systems enthusiast with a strong background in electronics and telecommunications engineering, currently studying at Al-Azhar University's Faculty of Engineering. My journey so far has included diverse projects, a teaching role in C programming, and collaborative experience in coding competitions and hackathons.
+I'm an Electronics and Communication Engineering student with a strong interest in digital design and verification. Currently training at the National Telecommunication Institute (NTI) in FPGA-based digital design, I am expanding my expertise in Verilog, SystemVerilog, and verification methodologies.
+
+I have hands-on experience implementing projects such as a single-cycle MIPS processor and a UART protocol in Verilog, My background in embedded systems gives me a solid foundation in hardware–software integration, and I am eager to further specialize in digital verification methodologies.
 
 ---
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -10,37 +12,39 @@ I'm an Embedded Systems enthusiast with a strong background in electronics and t
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
+I'm a communication and electronics student who is passionate about Digital Design and verification.
 
-- 🎓 &nbsp; **Education** : Third-year Electrical Engineering student, Department of Electrical Engineering, Al-Azhar University.
-- 🚗 &nbsp;  **Focus**: Embedded software engineering with a concentration in the *automotive field*.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware and AUTOSAR.
+- 🎓 &nbsp; **Education** : final-year Electrical Engineering student, Department of electronics and communication Engineering, Al-Azhar University.
+- 🚗 &nbsp;  **Focus**: Digital disign and verification.
 
 ---
 
 ## 🛠 Skills & Tools
-- **Programming**: Proficient in **C programming** , with experience in delivering lectures and workshops.
-- **Microcontrollers**: Specialization with **ATmega32**, including hands-on projects with keypads, LCDs, and seven-segment displays.
-- **Software Development**: Project work with real-world embedded applications and control systems.
+- **HDL**: Proficient in **Verilog & Systemverilog**.
+- **Software Tools**: Xilinx Vivado, Questasim, eclipse.
+- - **Programming**: Proficient in **C & C++ programming**.
+- **Microcontrollers**: Specialization with **ATmega32**.
 - **Languages**: Advanced in English and Arabic.
 
 - 💻 &nbsp;
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
+![verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=v)
+![verilog](https://img.shields.io/badge/-SystemVerilog-black?style=flat-square&logo=v)
 - ⚙ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 - 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Xilinx Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Questasim](https://img.shields.io/badge/-Questasim-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ---
 
 ## 💡 Future Goals
-- 🌍 *Global Impact*: Aspire to become a skilled embedded engineer, joining an international team to develop cutting-edge solutions in the automotive industry.
-- 📈 *Continuous Learning*: Enhancing my embedded systems expertise and exploring more advanced topics in the field.
+- 🌍 *Global Impact*: Aspire to become a skilled digital design and verification engineer.
+- 📈 *Continuous Learning*: Enhancing my Digital design expertise and exploring more advanced topics in the field.
 
 ---
 
@@ -59,7 +63,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 ## 🔗 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-adwe">
+  <a href="https://www.linkedin.com/in/abdelrhman-adwe">
         <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
