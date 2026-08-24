@@ -56,7 +56,10 @@ I'm a communication and electronics student who is passionate about Digital Desi
 
 ### 📊 Profile stats
 
-[![Abdelrahman Adwe Ali 's github stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanadwe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/abdallah-shehawey/github-readme-stats)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fjlm.vercel.app/api?username=abdelrahmanadwe&show_icons=true&bg_color=0b1017&title_color=58a6ff&text_color=c5d2e0&icon_color=3fb950&border_color=182231" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats-three-sand.vercel.app?user=abdelrahmanadwe&background=0b1017&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c5d2e0&currStreakNum=e6edf6&sideNums=e6edf6&dates=5b6b80&border=182231" alt="GitHub Streak"/>
+</p>
 
 ---
 
