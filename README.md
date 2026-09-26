@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>🎓 B.Sc. in Electronics & Electrical Communications Engineering, Al-Azhar University</b><br>
-  <b>🏆 Ranked 2nd in Class (Excellent with Highest Honors - 86%)</b><br>
+  <b>🏆 Ranked 2nd in Class (Excellent with Highest Honors)</b><br>
   <b>🥉 3rd Place Winner at the Egypt Semiconductor Challenge 2026</b>
 </p>
 
